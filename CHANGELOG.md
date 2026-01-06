@@ -21,3 +21,6 @@ All notable changes to these configs will be documented in this file.
 - Initial Shader Release
 - Added Changelog.md
 - Added Readme.md
+- Added better instructions/guide on how to install
+- Added With and Without Shader Photos
+- Added tip to remove "Mature" or "Washed Out" color scheme
