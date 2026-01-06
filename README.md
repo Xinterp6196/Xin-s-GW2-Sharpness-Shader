@@ -9,6 +9,8 @@
 Guild Wars 2 Shader for ReShade.
 Anything updates to the shader will be updated as I see fit moving forward.
 
+If you do not like the color correction to make the game feel more "Mature" or "Washed Out", once installed, hit Home, then uncheck "Tonemap".
+
 ## Installation
 
 1. Download the [Sharpness Shader](https://github.com/Xinterp6196/Xin-s-GW2-Sharpness-Shader/archive/refs/heads/main.zip)
