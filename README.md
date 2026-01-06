@@ -25,3 +25,15 @@ Anything updates to the shader will be updated as I see fit moving forward.
 ## 📜 Changelog
 
 See what's new in the [CHANGELOG.md](CHANGELOG.md).
+
+## Photos - Without and With Shader (Please ignore FishingBuddy, Event Timers, and Combat Rings. These are a part of my BlishUI setup and are not part of the shader)
+
+Without Shader
+<img width="2557" height="1076" alt="image" src="https://github.com/user-attachments/assets/a4e690c9-4f9a-45e0-888e-36efdd62857b" />
+<img width="2559" height="1078" alt="image" src="https://github.com/user-attachments/assets/e02542a9-e489-4389-a842-16af239f3e51" />
+<img width="2558" height="1078" alt="image" src="https://github.com/user-attachments/assets/c4640067-1f06-4ca5-82f5-3337ba43e74f" />
+
+With Shader
+<img width="2557" height="1078" alt="image" src="https://github.com/user-attachments/assets/fd39e495-b26b-4a17-9cde-9eeeee071c09" />
+<img width="2558" height="1077" alt="image" src="https://github.com/user-attachments/assets/6b03a3c3-d6a8-4c10-a893-6f1ba7fe4fb8" />
+<img width="2558" height="1078" alt="image" src="https://github.com/user-attachments/assets/babe96f1-6659-495f-84dc-93a25331a832" />
