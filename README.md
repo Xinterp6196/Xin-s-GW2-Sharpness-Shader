@@ -10,6 +10,7 @@ Guild Wars 2 Shader for ReShade.
 Anything updates to the shader will be updated as I see fit moving forward.
 
 If you do not like the color correction to make the game feel more "Mature" or "Washed Out", once installed, hit Home, then uncheck "Tonemap".
+<img width="889" height="161" alt="image" src="https://github.com/user-attachments/assets/099fedf5-1f34-4bac-aec1-012fd6cefe3a" />
 
 ## Installation
 
