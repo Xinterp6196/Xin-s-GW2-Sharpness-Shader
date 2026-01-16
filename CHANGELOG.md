@@ -16,9 +16,11 @@ All notable changes to these configs will be documented in this file.
 
 - N/A
 
-## [0.1.1] - 01-15-2026
+## [0.1.2] - 01-15-2026
 ### Fix Render Pipeline Issue.
 - Adjust Post Processing
+- Adjusted installation process
+- Added correct dxgi.dll for Reshade/updated Reshade
 
 ## [0.1.0] - 01-05-2026
 ### Added ALL THE THINGS.

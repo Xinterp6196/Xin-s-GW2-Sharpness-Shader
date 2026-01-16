@@ -14,9 +14,9 @@ If you do not like the color correction to make the game feel more "Mature" or "
 
 ## Installation
 
-1. Login to GW2 and change Post Processing to FXAA.
+1. Login to GW2 and change Post Processing to FXAA, then exit game.
 2. Download the [Sharpness Shader](https://github.com/Xinterp6196/Xin-s-GW2-Sharpness-Shader/archive/refs/heads/main.zip)
-3. Unzip the Sharpness Shader wherever you see fit
+3. Unzip the Sharpness Shader wherever you see fit and open this folder. (Do not close this folder, you will need it open for step 5)
 4. Install [ReShade](https://reshade.me/)
     1. Download without addons
     2. Browse to GW2 Directory and select Gw2-64.exe - Default is "C:\Program Files\Guild Wars 2"
@@ -24,7 +24,11 @@ If you do not like the color correction to make the game feel more "Mature" or "
     4. Hit Browse, then navigate to where you unzipped the Shader at
     5. Select "XIN_GW2_HighSharpColorCorrect.ini"
     6. Hit "Finish"
-5. Run GW2 through whatever means you normally would run it with, either with Nexus, Blish, or through default means.
+5. Migrate updated dxgi.dll to GW2 Root
+    1. Open a new file explorer and browse to GW2 Directory and select Gw2-64.exe - Default is "C:\Program Files\Guild Wars 2"
+    2. Copy and Paste the "dxgi.dll" into the folder containing "Gw2-64.exe"
+    3. Close both the GW2 Directory and your Shader Folder.
+6. Run GW2 through whatever means you normally would run it with, either with Nexus, Blish, or through default means.
 
 ## 📜 Changelog
 
