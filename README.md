@@ -3,6 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Xinterp6196/Xin-s-GW2-Sharpness-Shader?logo=thunderstore&logoColor=white&label=Repo%20Size&color=green)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Xinterp6196/Xin-s-GW2-Sharpness-Shader?logo=github&label=Commits%3A&color=green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Xinterp6196/Xin-s-GW2-Sharpness-Shader?display_timestamp=author&logo=githubactions&logoColor=white&label=Latest%20Commit)
+[![Github All Releases](https://img.shields.io/github/downloads/Xinterp6196/Xin-s-GW2-Sharpness-Shader/total.svg)]()
 
 ## Description
 
