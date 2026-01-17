@@ -16,7 +16,7 @@ If you do not like the color correction to make the game feel more "Mature" or "
 ## Installation
 
 1. Login to GW2 and change Post Processing to FXAA, then exit game.
-2. Download the [Sharpness Shader](https://github.com/Xinterp6196/Xin-s-GW2-Sharpness-Shader/archive/refs/heads/main.zip)
+2. Download the [Sharpness Shader](https://github.com/Xinterp6196/Xin-s-GW2-Sharpness-Shader/archive/refs/tags/1.0.0.zip)
 3. Unzip the Sharpness Shader wherever you see fit and open this folder. (Do not close this folder, you will need it open for step 5)
 4. Install [ReShade](https://reshade.me/)
     1. Download without addons
